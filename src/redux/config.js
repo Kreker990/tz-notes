@@ -1,0 +1,3 @@
+export const GET_NOTES_START = "GET_NOTES_START"
+export const GET_NOTES_SUCCES = "GET_NOTES_SUCCES"
+export const GET_NOTES_ERROR = "GET_NOTES_ERROR"
