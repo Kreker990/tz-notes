@@ -40,7 +40,6 @@ const styles = StyleSheet.create({
     },
     ready: {
         fontSize: 16,
-        fontWeight: 500,
         color: colors.orange,
         textDecorationLine: 'underline'
     },

@@ -114,12 +114,12 @@ const styles = StyleSheet.create({
     headerText: {
         fontSize: 22,
         color: colors.black,
-        fontWeight: '600',
+        fontWeight: 600,
     },
     favoriteText: {
         fontSize: 18,
         color: colors.black,
-        fontWeight: '600',
+        fontWeight: 600,
         textDecorationLine: 'underline',
     },
     addButton: {

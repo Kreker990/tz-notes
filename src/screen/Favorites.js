@@ -74,12 +74,10 @@ const styles = StyleSheet.create({
     headerText: {
         fontSize: 22,
         color: colors.black,
-        fontWeight: 600
     },
     favoriteText: {
         fontSize: 18,
         color: colors.black,
-        fontWeight: 600,
         textDecorationLine: 'underline',
     },
     addButton: {
@@ -94,6 +92,5 @@ const styles = StyleSheet.create({
     },
     notFoundText: {
         fontSize: 18,
-        fontWeight: 600,
     }
 })
